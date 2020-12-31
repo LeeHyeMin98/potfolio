@@ -52,8 +52,8 @@ img {vertical-align: middle;}
  /* max-width: 1000px;*/
   width: 80%;
   position: relative;
-  margin: auto;
-}
+  margin: auto; 
+} 
 
 /* 슬라이드와 함께 변하는 내용 */
 .text {
